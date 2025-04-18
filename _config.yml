@@ -1,19 +1,19 @@
-title: "Upperboat"
-logo: "/images/bio_photo.png?raw=true"
+title: "Tony Wu"
+logo: "/images/IMG_2225.jpg?raw=true"
 description: >
-  Welcome to Upperboat — a place where creativity meets insight. 
+  Welcome to my space — where psychology meets data. 
   <br><br>
-  I'm passionate about data, strategy, and innovation.
+  I am a data analyst bridging clinical insight and analytical rigor.
   <br><br>
-  <a href="https://www.linkedin.com/in/larrychencpa/" target="_blank">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/tony-wu-4a3362194/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
 
 show_downloads: false
 google_analytics: ""  # Add your GA tracking ID if needed, e.g., "UA-XXXXXXXXX-X"
 author:
-  name: "Larry Chen"
-  email: "larry.chen@upperboat.com"
+  name: "Tony Wu"
+  email: "ad0911597689@gmail.com"
 
 # Build settings
 markdown: kramdown
